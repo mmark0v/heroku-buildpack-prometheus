@@ -1,4 +1,4 @@
-# Heroku Buildpack Prometheus
+# Heroku Buildpack Prometheus v2.48.1
 
 This is an **unofficial** [Heroku
 Buildpack](https://devcenter.heroku.com/articles/buildpacks) for installing
